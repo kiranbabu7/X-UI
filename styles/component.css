@@ -21,4 +21,16 @@
 .btn-secondary:hover {
   background-color: #7a7a7a;
 }
+
+.btn-border {
+  border: #c50063 1px solid;
+  background-color: white;
+  color: #c50063;
+  font-weight: 700;
+}
+
+.btn-border:hover {
+  background-color: #c50063;
+  color: white;
+}
 /*# sourceMappingURL=component.css.map */
